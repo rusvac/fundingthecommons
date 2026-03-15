@@ -17,7 +17,7 @@ these are things existing in the while, downstream effects from this context.
 
 - [bino.baby](https://bino.baby/) — live autonomous agent
 - [warden.cash](https://warden.cash/) — governance monitoring
-- [REDG example](https://github.com/rusvac/HackNight2026)
+- [REDG example](https://github.com/rusvac/HackNight2026) - deriving unique-canonical entities from their footprint
 
 
 ---
