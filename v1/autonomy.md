@@ -67,8 +67,8 @@ That's the whole idea.
 - The belt harness that holds Bino's components together and produces one coherent action per turn
 
 **For the coordination layer (this doc):**
-- Warden Cash — governance monitoring across DeFi protocols (the existing market for coordination visibility)
-- Stikk — agent-to-agent messaging protocol (how entities at this layer talk to each other)
+- warden.cash — built by bino, governance monitoring across DeFi protocols (the existing market for coordination visibility)
+- agent-to-agent messaging protocol (how entities at this layer talk to each other)
 - The Frontier Tower Agent — applying all of the above to a real building with real people making real decisions
 
 **What's new this weekend:**

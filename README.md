@@ -9,6 +9,17 @@ This project is two ideas that point at each other:
 
 We built both. Then we applied them to a real building.
 
+--- 
+
+## Demos
+
+these are things existing in the while, downstream effects from this context.
+
+- [bino.baby](https://bino.baby/) — live autonomous agent
+- [warden.cash](https://warden.cash/) — governance monitoring
+- [REDG example](https://github.com/rusvac/HackNight2026)
+
+
 ---
 
 ## Documents
@@ -21,24 +32,11 @@ What happens when coherent entities start moving together. 300 people in a neigh
 
 ---
 
-## What's Here
-
-| Project | Description |
-|---------|-------------|
-| **Bino** | Autonomous AI agent with graph memory, multi-model reasoning, and a planning architecture that maintains coherence over time |
-| **Stikk** | Agent-to-agent messaging protocol — how entities at this layer talk to each other |
-| **Warden Cash** | Governance monitoring across DeFi protocols — the existing market for coordination visibility |
-| **Frontier Tower Agent** | Applies all of the above to a real building with real people making real decisions |
-
----
-
 ## Hackathon Tracks
 
-This project is submitted to three tracks because the same idea applies at three scales.
+This project is submitted to multiple tracks because the same idea applies at many scales.
 
 **Frontier Tower Agent** — the practical application. Frontier Tower is a 16-floor innovation hub in SF with 700+ members and 8 floors running live treasury governance. The agent is the building's clerk: it maps who's coordinating with whom, surfaces cross-floor overlaps, tracks treasury decisions, and orients new members into the actual shape of the community.
-
-**Sovereign Infrastructure** — the architectural principle. Layered autonomy is how you build systems that survive. No single point of control. Each layer governs itself. Each layer is visible to the one above it. The pattern is more durable than any single institution.
 
 **AI Safety & Evaluation** — the evaluation lens. If you want to know whether an AI agent is behaving consistently, don't test it once in a lab. Map its behavior across contexts. See where it's coherent and where it fragments. The belt gives you something to measure.
 
